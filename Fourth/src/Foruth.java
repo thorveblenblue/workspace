@@ -2,8 +2,7 @@
 public class Foruth {
 
 	public static void main(String[] args) {
-		System.out.println("I am in the fourth project");
-
+		System.out.println("I am in the fourth test   project");
 	}
 
 }
